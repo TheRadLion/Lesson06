@@ -1,0 +1,43 @@
+img {
+    width: 30%;
+    height: auto;
+    margin: 0.3%;
+}
+img:hover {
+    margin: 0%;
+    width: 35%;
+    transition-duration: 0.6s;
+    transition-delay: 0.3s;
+    transition-timing-function: ease;
+}
+
+#imagepagetitle {
+    font-style: bold;
+    margin: 2em 2em 1em 12em;
+    font-family: 'Dancing Script', cursive;
+    font-size: 70px;
+}
+
+#mainimagetitle {
+    margin: 2em 2em 1em 12em;
+}
+
+body {
+    margin: 20px 20px 20px 100px;
+    background: rgb(153, 166, 240);
+}
+
+#pic1{
+    filter: blur(1px);
+}
+
+#pic2, #pic3, #pic4, #pic5, #pic6 {
+    filter: drop-shadow(16px 16px 20px);
+}
+
+
+h3 {
+    font-size: 45px;
+    margin: 2em 2em 3em 14em;
+    
+}
