@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(188, 209, 209);
+}
+
+.topbar {
+    background-color: black;
+    width: 100%;
+}
+
+h1 {
+    font-size: 45px;
+    font-family: 'Karla', sans-serif;
+    font-style: italic;
+    text-align: center;
+    margin: 100px 10px 5px 0px;
+}
+
+#body {
+    font-size: 25px;
+    text-align: center;
+    margin: 200px 10px 5px 0px;
+}
